@@ -70,3 +70,6 @@ GET /api/students
 ## Add Student
 
 POST /api/students
+## Future API's
+- Update student
+- Update Student 
